@@ -1,0 +1,23 @@
+
+2023-10-04 13:21:57,434 - root - INFO - get_users()
+2023-10-04 13:23:33,852 - root - WARNING - get_user() -> user_id:8 -> kullanıcı bulunamadı
+2023-10-04 13:24:26,043 - root - INFO - get_user() -> user_id:2
+2023-10-04 13:24:35,022 - root - WARNING - get_user() -> user_id:a -> kullanıcı bulunamadı
+2023-10-04 13:25:09,449 - root - INFO - update_user() -> user_id:2
+2023-10-04 13:25:18,077 - root - WARNING - update_user() -> user_id:4 -> kullanıcı bulunamadı
+2023-10-04 13:25:44,351 - root - WARNING - delete_user() -> user_id:9 -> kullanıcı bulunamadı
+2023-10-04 13:25:54,100 - root - INFO - delete_user() -> user_id:1
+2023-10-04 13:26:21,935 - root - INFO - add_user()
+2023-10-04 13:31:40,558 - root - ERROR - add_book() -> book_data:title='string' author='string' full_name='string' -> 'full_name' is an invalid keyword argument for Book
+2023-10-04 13:32:05,744 - root - INFO - add_book()
+2023-10-04 13:35:06,149 - root - INFO - list_returned_books()
+2023-10-04 13:35:19,352 - root - INFO - list_overdue_books()
+2023-10-04 13:35:25,184 - root - INFO - list_returned_books()
+2023-10-04 13:36:39,299 - root - INFO - list_overdue_books()
+2023-10-04 13:36:43,453 - root - INFO - list_returned_books()
+2023-10-04 13:38:35,760 - root - INFO - list_provided_books()
+2023-10-04 13:39:17,922 - root - INFO - return_book() -> user_id:2 book_id:1
+2023-10-04 13:39:28,494 - root - INFO - list_provided_books()
+2023-10-04 13:39:37,322 - root - INFO - list_overdue_books()
+2023-10-04 13:41:03,309 - root - INFO - list_overdue_books()
+2023-10-04 13:42:01,186 - root - INFO - list_provided_books()
